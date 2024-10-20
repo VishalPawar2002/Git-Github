@@ -1,2 +1,5 @@
 # Git-Github
-it is git $ github practice
+it is git & github practice
+
+# Developer
+Vishal Pawar
